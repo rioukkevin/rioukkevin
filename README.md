@@ -1,3 +1,10 @@
-![Github Card](https://github-readme-stats.vercel.app/api?username=rioukkevin&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&count_private=true&custom_title=Have%20a%20nice%20day%20and%20be%20happy)
+![Mee](https://github.com/rioukkevin/rioukkevin/blob/master/assets/MeGit.png?raw=true)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioukkevin&layout=compact&cache_seconds=1600&hide_title=true&card_width=400&hide_border=true)
+![Socials](https://github.com/rioukkevin/rioukkevin/blob/master/assets/Socials.png?raw=true)
+
+# Projects
+
+[![VscodeGitCommit](https://github-readme-stats.vercel.app/api/pin/?username=rioukkevin&repo=vscode-git-commit)](https://github.com/rioukkevin/vscode-git-commit)
+[![VscodeGitButtons](https://github-readme-stats.vercel.app/api/pin/?username=rioukkevin&repo=vscode-git-buttons)](https://github.com/rioukkevin/vscode-git-buttons)
+[![Groot](https://github-readme-stats.vercel.app/api/pin/?username=rioukkevin&repo=groot)](https://github.com/rioukkevin/groot)
+[![AmongUs](https://github-readme-stats.vercel.app/api/pin/?username=rioukkevin&repo=discord-bot-amongus)](https://github.com/rioukkevin/discord-bot-amongus)
